@@ -1,0 +1,8 @@
+Extract the aspects and their corresponding details from the following user reviews of businesses. Return only the aspect dictionary and do not include any explanation.
+Here are some examples: 
+Sentence: You would enjoy this restaurant for its inviting atmosphere, friendly staff, flavorful food, particularly the recommended tri-tip, large portions, unique local brew selection like Charleyville mixed with red wine, and it being a must-visit spot in St. Louis for your next dining experience.
+Aspect: {"atmosphere": "inviting", "staff": "friendly", "food": "flavorful, particularly the recommended tri-tip; large portion", "drink": "unique local brew selection like Charleyville mixed with red wine", "location": "St. Louis"}
+Sentence: The user would enjoy Oca at Sun King because they appreciate the phenomenal sides, well-seasoned meats, variety of vegetables, and attentive customer service at Mama's Specialty Dinner. The interactive BBQ experience and family-friendly atmosphere make it a fun place to dine with kids.
+Aspect: {"name": "Oca", "location": "Sun King", "food": "phenomenal sides, well-seasoned meats, variety of vegetables", "customer service": "attentive", "atmosphere": "family-friendly", "target customer": "family with kids"}
+
+Now, extract the aspects and their details from the following sentence.

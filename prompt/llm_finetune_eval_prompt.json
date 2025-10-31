@@ -1,0 +1,5 @@
+{
+    "amazon": "Explain why the user would buy the book within 50 words.",
+    "yelp": "Explain why the user would enjoy the business within 50 words.",
+    "google": "Explain why the user would enjoy the business within 50 words."
+}

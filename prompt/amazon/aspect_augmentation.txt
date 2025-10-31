@@ -1,0 +1,1 @@
+Summarize the aspect-detail dictionary from other but relevant user-book pairs to support the next step of reasoning why the given user would purchase the given book in under 200 words. Don't give any explanation to your summarization.

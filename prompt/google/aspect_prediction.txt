@@ -1,0 +1,1 @@
+Summarize the aspect-detail dictionary extracted from reviews of the given user to other businesses and reviews from the other users to the given business to support the next step of reasoning why the given user would enjoy the given business in under 200 words. Don't give any explanation to your summarization.
