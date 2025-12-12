@@ -1,4 +1,4 @@
-# Extract, Augment, Finetune: A Hypergraph-based Aspect-related Retrieval Augmented Model for Explainable Recommendation
+# Hypergraph Reasoning and Clustering-based Aspect Enhancement for Explainable Recommendation
 <img src='img/pipeline.png' />
 
 ## Environment
